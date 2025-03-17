@@ -48,8 +48,8 @@ export const infos = {
   domain: "uol.com.br", // Sem "www"
   phone: {
     ddd: "73",
-    firstPart: "99961", // Apenas os 5 primeiros números (incluindo o 9)
-    secondPart: "2263", // Apenas os 4 últimos números
+    firstPart: "8240", // Apenas os 5 primeiros números (incluindo o 9)
+    secondPart: "1515", // Apenas os 4 últimos números
   },
   endereco: (
     <div>
